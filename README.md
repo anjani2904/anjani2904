@@ -15,15 +15,6 @@ I'm a motivated and detail-oriented Computer Science student passionate about Ar
 - 🤝 Open to Internship and Full-time opportunities
 
 ---
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 💻 GitHub: https://github.com/your-github
-- 📧 Email: your.email@example.com
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
