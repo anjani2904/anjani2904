@@ -134,14 +134,6 @@ I'm a motivated and detail-oriented Computer Science student passionate about Ar
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🌟 Quote
 
 > *"Learning never exhausts the mind—it only fuels innovation."* 🚀
